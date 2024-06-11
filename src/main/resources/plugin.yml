@@ -1,0 +1,11 @@
+name: KoolKidzTools
+version: '${project.version}'
+main: com.harryzhu.koolkidztools.KoolKidzTools
+api-version: '1.20.6'
+authors: [Harry Zhu]
+website: harryzhu.com
+commands:
+  place:
+    description: Sets a pin at your current location.
+  places:
+    description: Lists all pinned locations.
