@@ -18,12 +18,6 @@ KoolKidzTools is a Minecraft plugin that allows players to play with confidence 
 - `/place <pinName>` - Sets a pin at your current location with the specified name.
 - `/places` - Lists all your pinned locations with coordinates.
 
-## Permissions
-- `koolkidztools.place` - Allows the use of `/place` command.
-- `koolkidztools.places` - Allows the use of `/places` command.
-
-## Configuration
-
 ## Support
 If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository.
 
